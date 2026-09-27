@@ -1,0 +1,11 @@
+{
+  "topics": [
+    { "start": "2026-09-28", "title": { "ja": "人生で一番ハマったゲーム", "en": "Games you got most hooked on" } },
+    { "start": "2026-10-05", "title": { "ja": "何度でも読み返せる漫画", "en": "Manga you can reread forever" } },
+    { "start": "2026-10-12", "title": { "ja": "最強の朝ごはん", "en": "The ultimate breakfast" } },
+    { "start": "2026-10-19", "title": { "ja": "思い出の給食メニュー", "en": "School lunches you remember" } },
+    { "start": "2026-10-26", "title": { "ja": "一生聴ける曲", "en": "Songs you could listen to forever" } },
+    { "start": "2026-11-02", "title": { "ja": "推しの名脇役", "en": "Best supporting characters" } },
+    { "start": "2026-11-09", "title": { "ja": "最強のお菓子", "en": "The ultimate snacks" } }
+  ]
+}
